@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3cbdb81f-5891-4409-9a97-da4623907213
-  WEBAPP-NAME: az400-webapp-Arshad
+  WEBAPP-NAME: az400-webapp-AZURE_CREDENTIALS
 
 
 jobs:
